@@ -62,14 +62,4 @@ types/        Shared TypeScript definitions
 
 ---
 
-## Contributing 🤝
 
-PRs are welcome! Please open an issue first if you plan a large change so we can align on direction.
-
-## Final Output
-
-| Item                | Location                                  |
-| ------------------- | ----------------------------------------- |
-| Live Demo           | https://voxen-forge.vercel.app            |
-| Demo Video          | https://voxen-forge.vercel.app/demo-video |
-| Demo Video (Mirror) | https://youtu.be/AorTZiHTodA              |
